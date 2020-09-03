@@ -26,7 +26,6 @@ for((i=1;i<11;i++));do
  fi
  done
 
-pname, dname, symptom
 function request
 {
  for(( i=1; i<6;i++)); do
